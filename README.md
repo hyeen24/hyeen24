@@ -2,7 +2,7 @@
 
 <h2>👨‍💻Mini Python Projects</h2>
 
-- [Python Projects](https://github.com/hyeen24/NRIC-Checker)
+- [NRIC Checker](https://github.com/hyeen24/NRIC-Checker)
 
 <h2>📄Certificate</h2>
 - [NULL]
