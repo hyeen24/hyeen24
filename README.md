@@ -6,6 +6,10 @@
 
 <h2>📄Certificate</h2>
 - [NULL]
+
+<h2>Languages and Tools</h2>
+<img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/376344/python.svg"/>
+  
 <!--
 <h2> 🤳 Connect with me:</h2>
 
