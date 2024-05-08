@@ -1,4 +1,7 @@
-### Hi there , I am Hyeen!👋
+
+![Header](https://github.com/hyeen24/hyeen24/assets/81229303/dfa3ff0e-83b8-451e-ad82-a46f18de2e5b)
+
+
 
 <h2>👨‍💻Mini Python Projects</h2>
 
