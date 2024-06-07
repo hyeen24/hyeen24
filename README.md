@@ -13,6 +13,7 @@
 - [NRIC Checker](https://github.com/hyeen24/NRIC-Checker)
 
 <h2>📄Certificate</h2>
+
 - [SQL Associate Certificate](https://www.datacamp.com/certificate/SQA0014526598904)
 
 <h2>Languages and Tools</h2>
