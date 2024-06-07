@@ -10,7 +10,7 @@
 
 <h2>👨‍💻Data Engineering Projects</h2>
 
-- [Data Streaming]((https://github.com/hyeen24/Data-Streaming))
+- [Data Streaming](https://github.com/hyeen24/Data-Streaming)
   
 <h2>👨‍💻Mini Python Projects</h2>
 
