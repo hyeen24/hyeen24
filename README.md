@@ -11,6 +11,7 @@
 <h2>👨‍💻Data Engineering Projects</h2>
 
 - [Data Streaming](https://github.com/hyeen24/Data-Streaming)
+- [Setting Up ELT pipeline with dbt, Airflow, snowflake](https://github.com/hyeen24/ETL-pipeline)
   
 <h2>👨‍💻Mini Python Projects</h2>
 
