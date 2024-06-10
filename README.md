@@ -6,9 +6,11 @@
 -  💰 Looking for career switch oppotunity
 -  📖 Currently venturing into Data field
 
+<h2>📈Analyse Project</h2>
 
+[Investigating Netflix Movies](https://github.com/hyeen24/Investigating-Netflix-Movies)
 
-<h2>Data Engineering Projects</h2>
+<h2>🏗Data Engineering Projects</h2>
 
 - [Data Streaming](https://github.com/hyeen24/Data-Streaming)
 - [Setting Up ELT pipeline with dbt, Airflow, snowflake](https://github.com/hyeen24/ELT-pipeline)
