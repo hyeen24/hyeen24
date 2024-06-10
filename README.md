@@ -4,11 +4,11 @@
 
 -  🏢 Currently working in Mindef
 -  💰 Looking for career switch oppotunity
--  📖 Currently learning Python, SQL, ML
+-  📖 Currently venturing into Data field
 
 
 
-<h2>👨‍💻Data Engineering Projects</h2>
+<h2>Data Engineering Projects</h2>
 
 - [Data Streaming](https://github.com/hyeen24/Data-Streaming)
 - [Setting Up ELT pipeline with dbt, Airflow, snowflake](https://github.com/hyeen24/ELT-pipeline)
