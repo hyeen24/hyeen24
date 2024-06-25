@@ -10,7 +10,11 @@
 
 [Investigating Netflix Movies](https://github.com/hyeen24/Investigating-Netflix-Movies)
 
-<h2>🏗Data Engineering Projects</h2>
+<h2>🧑‍🎓 DataScience Project</h2>
+
+[End to End Machine Learning - Work in Progess ](https://github.com/hyeen24/ML-Project)
+
+<h2>🏗 Data Engineering Projects</h2>
 
 - [Data Streaming](https://github.com/hyeen24/Data-Streaming)
 - [Setting Up ELT pipeline with dbt, Airflow, snowflake](https://github.com/hyeen24/ELT-pipeline)
