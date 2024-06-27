@@ -4,7 +4,13 @@
 
 -  🏢 Currently working in Mindef
 -  💰 Looking for career switch oppotunity
--  📖 Currently venturing into Data field
+-  📖 Currently venturing into Data field :
+     - Machine Learning
+     - Deep Learning
+     - AI
+     - NLP
+     - LLM
+     - Data Engineering
 
 <h2>📈Analyse Project</h2>
 
