@@ -18,7 +18,7 @@
 
 <h2>🧑‍🎓 DataScience Project</h2>
 
-[End to End Machine Learning - Work in Progess ](https://github.com/hyeen24/ML-Project)
+[Student Math Prediction Machine Learning](https://github.com/hyeen24/ML-Project)
 
 <h2>🏗 Data Engineering Projects</h2>
 
