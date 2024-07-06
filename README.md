@@ -28,6 +28,7 @@
 <h2>👨‍💻Mini Python Projects</h2>
 
 - [NRIC Checker](https://github.com/hyeen24/NRIC-Checker)
+- [Basic Python Telegram Bot](https://github.com/hyeen24/basictelegrambot)
 
 <h2>📄Certificate</h2>
 
