@@ -18,8 +18,8 @@
 
 <h2>🧑‍🎓 DataScience Project</h2>
 
-[Student Math Prediction Machine Learning](https://github.com/hyeen24/ML-Project)
-[House Prices - Kaggle Competition (WORK IN PROGRESS)](https://github.com/hyeen24/houseprices)
+- [Student Math Prediction Machine Learning](https://github.com/hyeen24/ML-Project)
+- [House Prices - Kaggle Competition (WORK IN PROGRESS)](https://github.com/hyeen24/houseprices)
 
 <h2>🏗 Data Engineering Projects</h2>
 
