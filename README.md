@@ -25,6 +25,7 @@
 
 - [Data Streaming](https://github.com/hyeen24/Data-Streaming)
 - [Setting Up ELT pipeline with dbt, Airflow, snowflake](https://github.com/hyeen24/ELT-pipeline)
+- [ Supermarket Sales Data | data modeling | postgresql ](https://github.com/hyeen24/Supermarket-sales)
   
 <h2>👨‍💻Mini Python Projects</h2>
 
