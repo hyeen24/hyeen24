@@ -29,6 +29,7 @@
 
 - [NRIC Checker](https://github.com/hyeen24/NRIC-Checker)
 - [Basic Python Telegram Bot](https://github.com/hyeen24/basictelegrambot)
+- [Forex Trading Automation - OANDA API](https://github.com/hyeen24/oanda-forex-automation)
 
 
 <h2>📄Certificate</h2>
