@@ -35,6 +35,7 @@
 <h2>📄Certificate</h2>
 
 - [SQL Associate Certificate](https://www.datacamp.com/certificate/SQA0014526598904)
+- [Associate Data Engineer](https://www.datacamp.com/certificate/DEA0012534841524)
 
 <h2>Languages and Tools</h2>
 <img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/376344/python.svg"/><img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/354200/postgresql.svg"/>
