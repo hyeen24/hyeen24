@@ -17,6 +17,7 @@
 - [Student Math Prediction Machine Learning](https://github.com/hyeen24/ML-Project)
 - [House Prices - Kaggle Competition](https://github.com/hyeen24/houseprices)
 - [Solar Power Efficiency Classification for maintenance](https://github.com/hyeen24/solar-efficiency/tree/main)
+- [ AI Scraper ](https://github.com/hyeen24/ai-scraper/tree/main)
 
 <h2>🏗 Data Engineering Projects</h2>
 
