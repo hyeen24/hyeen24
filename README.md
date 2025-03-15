@@ -2,8 +2,7 @@
 ![Header](https://github.com/hyeen24/hyeen24/assets/81229303/dfa3ff0e-83b8-451e-ad82-a46f18de2e5b)
 <h2 align = "center"> Passionate in IT</h2>
 
--  🏢 Currently working in Mindef
--  💰 Looking for career switch oppotunity
+-  🏢 Used to be mechanical engineer. Looking for a career switch into data domain.
 -  📖 Currently venturing into Data field :
      - Machine Learning
      - Deep Learning
