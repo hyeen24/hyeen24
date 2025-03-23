@@ -25,11 +25,12 @@
 - [ Supermarket Sales Data | data modeling | postgresql ](https://github.com/hyeen24/Supermarket-sales)
 - [Web Scrapping with scrapy](https://github.com/hyeen24/web-scrap/tree/main)
   
-<h2>👨‍💻Other Python Projects</h2>
+<h2>👨‍💻Other Projects</h2>
 
 - [NRIC Checker](https://github.com/hyeen24/NRIC-Checker)
 - [Basic Python Telegram Bot](https://github.com/hyeen24/basictelegrambot)
 - [Forex Trading Automation - OANDA API](https://github.com/hyeen24/oanda-forex-automation)
+- [ Full stack web app with Flask and MongoDB](https://github.com/hyeen24/cca-fullstack-web-app/blob/main/README.md)
 
 
 <h2>📄Certificate</h2>
