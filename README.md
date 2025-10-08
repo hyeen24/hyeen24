@@ -2,20 +2,26 @@
 ![Header](https://github.com/hyeen24/hyeen24/assets/81229303/dfa3ff0e-83b8-451e-ad82-a46f18de2e5b)
 <h2 align = "center"> About Me</h2>
 
--  🏢 Miliary for 11 Years. Army Engineer - Superviser (Maintenance / Repair )
--  🏢 Technology Intern - Financial (Data and Business Intelligent)
-       - Compliance Trading Request & Approval System
-       - Treasury Dashboard
-       - Management Reporting Dashboard
-   < Contracted as Internal Consultant > 
--  🏢 Internal Consultant - Data Engineer
--  📖 Currently venturing into Data field :
-     - Machine Learning
-     - Deep Learning
-     - AI
-     - NLP
-     - LLM
-     - Data Engineering
+#### 🏢 Internal Consultant - Data Engineer [ May 2025 - Current ]
+- Collaborate with Business Lead and Data Analyst to gather and analyse business requirements for data processing and reporting solution.
+- Maintain and troubleshoot any issues that arise with existing code for client.
+- Improve code quality and reduce processing time for data pipeline for client.
+- Manage data integration, warehouse design and implementation, analytics process in Microsoft Fabric.
+- Designed and implemented expense monitoring dashboard solution (end-to-end). 
+- Technology Transformation Project 
+  - Represent client to work with vendor on data platform.
+  - Provides BAU requirements
+  - Writing test cases for data platform
+  - Testing 
+  - Recommend changes and system design
+
+#### 📖 Interest :
+- Machine Learning
+- Deep Learning
+- AI
+- NLP
+- LLM
+- Data Engineering
 
 <h2>🧑‍🎓 DataScience Project</h2>
 
@@ -45,7 +51,16 @@
 - [Associate Data Engineer](https://www.datacamp.com/certificate/DEA0012534841524)
 
 <h2>Languages and Tools</h2>
-<img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/376344/python.svg"/><img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/354200/postgresql.svg"/><img align="left" alt="hyeen24 |" width="50px" src="https://omnidata.com/wp-content/uploads/2025/01/omnidata-fabric-700x500-1.png"/><img align="left" alt="hyeen24 |" width="50px" src="https://store-images.s-microsoft.com/image/apps.47429.13795821674373682.42a749e2-3ed9-43c6-88ec-0045278b4e49.44c95864-02a2-4f02-b16e-5b92d03974a1?h=210"/><img align="left" alt="hyeen24 |" width="50px" src="https://play-lh.googleusercontent.com/aeXs0qriXwmHVWtq9u4zVUO6SifULKtJOQdtBg6wDQqaNEaaJKl6b2oiABMmHn6yLH8=w240-h480-rw"/><img align="left" alt="hyeen24 |" width="50px" src="https://store-images.s-microsoft.com/image/apps.9729.14405452487353876.a6612b1c-3bfc-46da-ad7e-0dd83b65757d.be9b17fe-9781-42f6-9a3e-4914ef774843?h=210"/><img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/508915/flask.svg"/>
+<img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/376344/python.svg"/><img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/354200/postgresql.svg"/><img align="left" alt="hyeen24 |" width="50px" src="https://omnidata.com/wp-content/uploads/2025/01/omnidata-fabric-700x500-1.png"/><img align="left" alt="hyeen24 |" width="50px" src="https://store-images.s-microsoft.com/image/apps.47429.13795821674373682.42a749e2-3ed9-43c6-88ec-0045278b4e49.44c95864-02a2-4f02-b16e-5b92d03974a1?h=210"/><img align="left" alt="hyeen24 |" width="50px" src="https://play-lh.googleusercontent.com/aeXs0qriXwmHVWtq9u4zVUO6SifULKtJOQdtBg6wDQqaNEaaJKl6b2oiABMmHn6yLH8=w240-h480-rw"/><img align="left" alt="hyeen24 |" width="50px" src="https://store-images.s-microsoft.com/image/apps.9729.14405452487353876.a6612b1c-3bfc-46da-ad7e-0dd83b65757d.be9b17fe-9781-42f6-9a3e-4914ef774843?h=210"/><img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/508915/flask.svg"/><img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/349419/javascript.svg"/><img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/331302/azure-v2.svg"/>
+<img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/448266/aws.svg"/>
+<img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/353623/css-3.svg"/>
+<img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/353884/html-5.svg"/>
+<img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg"/>
+<img align="left" alt="hyeen24 |" width="50px" src="https://omnidata.com/wp-content/uploads/2025/01/omnidata-fabric-700x500-1.png"/>
+<img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/354259/react.svg"/>
+<img align="left" alt="hyeen24 |" width="50px" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/apache-spark-94zum7n2swq44413oz16m.png/apache-spark-xntvdsnrrb09llwflruka.png?_a=DATAg1AAZAA0"/>
+
+
 <!-- <img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/508915/flask.svg"/>-->
 
 
