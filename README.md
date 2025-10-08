@@ -4,6 +4,10 @@
 
 -  🏢 Miliary for 11 Years. Army Engineer - Superviser (Maintenance / Repair )
 -  🏢 Technology Intern - Financial (Data and Business Intelligent)
+       - Compliance Trading Request & Approval System
+       - Treasury Dashboard
+       - Management Reporting Dashboard
+   < Contracted as Internal Consultant > 
 -  🏢 Internal Consultant - Data Engineer
 -  📖 Currently venturing into Data field :
      - Machine Learning
