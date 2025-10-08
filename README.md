@@ -2,8 +2,9 @@
 ![Header](https://github.com/hyeen24/hyeen24/assets/81229303/dfa3ff0e-83b8-451e-ad82-a46f18de2e5b)
 <h2 align = "center"> About Me</h2>
 
--  🏢 Miliary for 11 Years. Army Engineer - Maintenance / Repair 
-- Lead a team of 15 teachnicians in maintaining day-to-day maintenance operations optimizing fleet of equipments.
+-  🏢 Miliary for 11 Years. Army Engineer - Superviser (Maintenance / Repair )
+-  🏢 Technology Intern - Financial (Data and Business Intelligent)
+-  🏢 Internal Consultant - Data Engineer
 -  📖 Currently venturing into Data field :
      - Machine Learning
      - Deep Learning
