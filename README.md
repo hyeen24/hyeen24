@@ -36,6 +36,7 @@
 - [Setting Up ELT pipeline with dbt, Airflow, snowflake](https://github.com/hyeen24/ELT-pipeline)
 - [ Supermarket Sales Data | data modeling | postgresql ](https://github.com/hyeen24/Supermarket-sales)
 - [Web Scrapping with scrapy](https://github.com/hyeen24/web-scrap/tree/main)
+- [Automated Expense Solution](https://github.com/hyeen24/expense-solution)
   
 <h2>👨‍💻Other Projects</h2>
 
