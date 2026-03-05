@@ -32,7 +32,6 @@
 
 <h2>🏗 Data Engineering Projects</h2>
 
-- [Data Streaming](https://github.com/hyeen24/Data-Streaming)
 - [Setting Up ELT pipeline with dbt, Airflow, snowflake](https://github.com/hyeen24/ELT-pipeline)
 - [ Supermarket Sales Data | data modeling | postgresql ](https://github.com/hyeen24/Supermarket-sales)
 - [Web Scrapping with scrapy](https://github.com/hyeen24/web-scrap/tree/main)
