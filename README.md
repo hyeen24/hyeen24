@@ -52,14 +52,23 @@
 - [AWS Solution Architect](https://www.credly.com/badges/0b0c9738-c7f2-461b-b9aa-0b5e3e12fe0a/linked_in_profile)
 
 <h2>Languages and Tools</h2>
-<img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/376344/python.svg"/><img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/354200/postgresql.svg"/><img align="left" alt="hyeen24 |" width="50px" src="https://omnidata.com/wp-content/uploads/2025/01/omnidata-fabric-700x500-1.png"/><img align="left" alt="hyeen24 |" width="50px" src="https://store-images.s-microsoft.com/image/apps.47429.13795821674373682.42a749e2-3ed9-43c6-88ec-0045278b4e49.44c95864-02a2-4f02-b16e-5b92d03974a1?h=210"/><img align="left" alt="hyeen24 |" width="50px" src="https://play-lh.googleusercontent.com/aeXs0qriXwmHVWtq9u4zVUO6SifULKtJOQdtBg6wDQqaNEaaJKl6b2oiABMmHn6yLH8=w240-h480-rw"/><img align="left" alt="hyeen24 |" width="50px" src="https://store-images.s-microsoft.com/image/apps.9729.14405452487353876.a6612b1c-3bfc-46da-ad7e-0dd83b65757d.be9b17fe-9781-42f6-9a3e-4914ef774843?h=210"/><img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/508915/flask.svg"/><img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/349419/javascript.svg"/><img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/331302/azure-v2.svg"/>
-<img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/448266/aws.svg"/>
+<img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/376344/python.svg"/>
+<img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/354200/postgresql.svg"/>
+<img align="left" alt="hyeen24 |" width="50px" src="https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming/fabric.png"/>
+<img align="left" alt="hyeen24 |" width="50px" src="https://store-images.s-microsoft.com/image/apps.47429.13795821674373682.42a749e2-3ed9-43c6-88ec-0045278b4e49.44c95864-02a2-4f02-b16e-5b92d03974a1?h=210"/>
+<img align="left" alt="hyeen24 |" width="50px" src="https://play-lh.googleusercontent.com/aeXs0qriXwmHVWtq9u4zVUO6SifULKtJOQdtBg6wDQqaNEaaJKl6b2oiABMmHn6yLH8=w240-h480-rw"/>
+<img align="left" alt="hyeen24 |" width="50px" src="https://store-images.s-microsoft.com/image/apps.9729.14405452487353876.a6612b1c-3bfc-46da-ad7e-0dd83b65757d.be9b17fe-9781-42f6-9a3e-4914ef774843?h=210"/>
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/3129e19a-8d46-4eb5-88a3-aea6c4eab9b7" />
+<img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/349419/javascript.svg"/>
+<img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/331302/azure-v2.svg"/>
+<img align="left" alt="hyeen24 |" width="50px" src="https://logohistory.net/wp-content/uploads/2023/06/AWS-Emblem.png"/>
 <img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/353623/css-3.svg"/>
 <img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/353884/html-5.svg"/>
 <img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg"/>
-<img align="left" alt="hyeen24 |" width="50px" src="https://omnidata.com/wp-content/uploads/2025/01/omnidata-fabric-700x500-1.png"/>
+<img align="left" alt="hyeen24 |" width="50px" src="https://www.syskit.com/wp-content/uploads/2024/09/Microsoft-Purview-1024x1024.png"/>
 <img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/354259/react.svg"/>
-<img align="left" alt="hyeen24 |" width="50px" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/apache-spark-94zum7n2swq44413oz16m.png/apache-spark-xntvdsnrrb09llwflruka.png?_a=DATAg1AAZAA0"/>
+<img align="left" alt="hyeen24 |" width="50px" src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/Apache-Spark.png/_jcr_content/renditions/cq5dam.web.1280.1280.png"/>
+<img align="left" alt="hyeen24 |" width="50px" src="https://danish-naglekar.gallerycdn.vsassets.io/extensions/danish-naglekar/power-platform-extension-pack/1.0.3/1660736797583/Microsoft.VisualStudio.Services.Icons.Default"/>
 
 
 <!-- <img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/508915/flask.svg"/>-->
