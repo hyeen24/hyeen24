@@ -49,6 +49,7 @@
 
 - [SQL Associate Certificate](https://www.datacamp.com/certificate/SQA0014526598904)
 - [Associate Data Engineer](https://www.datacamp.com/certificate/DEA0012534841524)
+- [AWS Solution Architect](https://www.credly.com/badges/0b0c9738-c7f2-461b-b9aa-0b5e3e12fe0a/linked_in_profile)
 
 <h2>Languages and Tools</h2>
 <img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/376344/python.svg"/><img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/354200/postgresql.svg"/><img align="left" alt="hyeen24 |" width="50px" src="https://omnidata.com/wp-content/uploads/2025/01/omnidata-fabric-700x500-1.png"/><img align="left" alt="hyeen24 |" width="50px" src="https://store-images.s-microsoft.com/image/apps.47429.13795821674373682.42a749e2-3ed9-43c6-88ec-0045278b4e49.44c95864-02a2-4f02-b16e-5b92d03974a1?h=210"/><img align="left" alt="hyeen24 |" width="50px" src="https://play-lh.googleusercontent.com/aeXs0qriXwmHVWtq9u4zVUO6SifULKtJOQdtBg6wDQqaNEaaJKl6b2oiABMmHn6yLH8=w240-h480-rw"/><img align="left" alt="hyeen24 |" width="50px" src="https://store-images.s-microsoft.com/image/apps.9729.14405452487353876.a6612b1c-3bfc-46da-ad7e-0dd83b65757d.be9b17fe-9781-42f6-9a3e-4914ef774843?h=210"/><img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/508915/flask.svg"/><img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/349419/javascript.svg"/><img align="left" alt="hyeen24 |" width="50px" src="https://www.svgrepo.com/show/331302/azure-v2.svg"/>
