@@ -2,19 +2,6 @@
 ![Header](https://github.com/hyeen24/hyeen24/assets/81229303/dfa3ff0e-83b8-451e-ad82-a46f18de2e5b)
 <h2 align = "center"> About Me</h2>
 
-#### 🏢 Internal Consultant - Data Engineer [ May 2025 - Current ]
-- Collaborate with Business Lead and Data Analyst to gather and analyse business requirements for data processing and reporting solution.
-- Maintain and troubleshoot any issues that arise with existing code for client.
-- Improve code quality and reduce processing time for data pipeline for client.
-- Manage data integration, warehouse design and implementation, analytics process in Microsoft Fabric.
-- Designed and implemented expense monitoring dashboard solution (end-to-end). 
-- Technology Transformation Project 
-  - Represent client to work with vendor on data platform.
-  - Provides BAU requirements
-  - Writing test cases for data platform
-  - Testing 
-  - Recommend changes and system design
-
 #### 📖 Interest :
 - Machine Learning
 - Deep Learning
